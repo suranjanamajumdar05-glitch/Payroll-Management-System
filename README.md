@@ -1,7 +1,7 @@
 ## Project Title
 Payroll Management System
 
-## Problem Statement (max 150 words)
+## Problem Statement
 Manual payroll calculation is time-consuming and error-prone. This system automates salary calculation for different types of employees efficiently.
 
 ## Target User
@@ -36,10 +36,8 @@ User Input (GUI) → Create Employee Object → Salary Calculation → Display O
 ## How to Run
 1. Open Command Prompt or Terminal
 2. Navigate to the project directory
-
 3. Compile the Java files:
    javac payroll/*.java
-
 4. Run the main class:
    java payroll.PayrollGUI
 
